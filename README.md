@@ -11,6 +11,7 @@
 <div align="center" id="badges">
   <a href="https://t.me/phantasmagoria666" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/> </a>
   <a href="https://www.linkedin.com/in/veranikaliauchuk/" target="_blank" title="Linkedin"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin"/> </a>
+  <a href="https://portfolio-verman.netlify.app/" target="_blank" title="Portfolio"> <img src="https://img.shields.io/badge/portfolio-9B1EAD.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"/> </a>
 </div>
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=adAstra97&style=flat-square&color=blue" alt=""/></div>
 
