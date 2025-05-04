@@ -39,6 +39,7 @@
 [![Markdown][Markdown]][Markdown-url]
 [![CSS3][CSS3]][CSS3-url]
 [![SASS][SASS]][SASS-url]
+[![Tailwind][Tailwind]][Tailwind-url]
 [![AngularMaterial][AngularMaterial]][AngularMaterial-url]
 [![MaterialUI][MaterialUI]][MaterialUI-url]
 [![AntDesign][AntDesign]][AntDesign-url]
@@ -48,6 +49,7 @@
 [![GitLab][GitLab]][GitLab-url]
 [![Netlify][Netlify]][Netlify-url]
 [![Vercel][Vercel]][Vercel-url]
+[![Yarn][Yarn]][Yarn-url]
 [![npm][npm]][npm-url]
 [![Vite][Vite]][Vite-url]
 [![Webpack][Webpack]][Webpack-url]
@@ -91,6 +93,10 @@
 [Yup-url]: https://github.com/jquense/yup
 [Asana]: https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=asana&logoColor=white
 [Asana-url]: https://asana.com/
+[Tailwind]: https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[Yarn]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
+[Yarn-url]: https://yarnpkg.com/
 [PhaserJS]: https://img.shields.io/badge/phaserjs-2C3E50.svg?style=for-the-badge&logo=phaser&logoColor=white
 [PhaserJS-url]: https://phaser.io/
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
