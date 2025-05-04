@@ -25,10 +25,13 @@
 [![RxJS][RxJS]][RxJS-url]
 [![NgRx][NgRx]][NgRx-url]
 [![React][React]][React-url]
+[![Next.js][Next.js]][Next.js-url]
 [![Redux][Redux]][Redux-url]
+[![RTK Query][RTK Query]][RTK Query-url]
 [![PhaserJS][PhaserJS]][PhaserJS-url]
 [![Javascript][Javascript]][Javascript-url]
 [![TypeScript][TypeScript]][TypeScript-url]
+[![Zod][Zod]][Zod-url]
 [![HTML5][HTML5]][HTML5-url]
 [![Pug][Pug]][Pug-url]
 [![Markdown][Markdown]][Markdown-url]
@@ -73,6 +76,12 @@
 [React-url]: https://react.dev/
 [Redux]: https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org/
+[Next.js]: https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white
+[Next.js-url]: https://nextjs.org/
+[RTK Query]: https://img.shields.io/badge/RTK_Query-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white
+[RTK Query-url]: https://redux-toolkit.js.org/rtk-query/overview
+[Zod]: https://img.shields.io/badge/Zod-8A2BE2.svg?style=for-the-badge
+[Zod-url]: https://zod.dev/
 [PhaserJS]: https://img.shields.io/badge/phaserjs-2C3E50.svg?style=for-the-badge&logo=phaser&logoColor=white
 [PhaserJS-url]: https://phaser.io/
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
