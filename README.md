@@ -28,6 +28,8 @@
 [![Next.js][Next.js]][Next.js-url]
 [![Redux][Redux]][Redux-url]
 [![RTK Query][RTK Query]][RTK Query-url]
+[![React Router][React Router]][React Router-url]
+[![TanStack Query][TanStack Query]][TanStack Query-url]
 [![React Hook Form][React Hook Form]][React Hook Form-url]
 [![PhaserJS][PhaserJS]][PhaserJS-url]
 [![Javascript][Javascript]][Javascript-url]
@@ -97,6 +99,11 @@
 [Tailwind-url]: https://tailwindcss.com/
 [Yarn]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
 [Yarn-url]: https://yarnpkg.com/
+markdown
+[React Router]: https://img.shields.io/badge/React_Router_7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white
+[React Router-url]: https://reactrouter.com/
+[TanStack Query]: https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white
+[TanStack Query-url]: https://tanstack.com/query/latest
 [PhaserJS]: https://img.shields.io/badge/phaserjs-2C3E50.svg?style=for-the-badge&logo=phaser&logoColor=white
 [PhaserJS-url]: https://phaser.io/
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
