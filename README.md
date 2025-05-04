@@ -99,7 +99,6 @@
 [Tailwind-url]: https://tailwindcss.com/
 [Yarn]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
 [Yarn-url]: https://yarnpkg.com/
-markdown
 [React Router]: https://img.shields.io/badge/React_Router_7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white
 [React Router-url]: https://reactrouter.com/
 [TanStack Query]: https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white
