@@ -65,6 +65,7 @@
 [![Postman][Postman]][Postman-url]
 [![WebSocket][WebSocket]][WebSocket-url]
 [![Firebase][Firebase]][Firebase-url]
+[![Shopify][Shopify]][Shopify-url]
 [![Vitest][Vitest]][Vitest-url]
 [![Jest][Jest]][Jest-url]
 [![Trello][Trello]][Trello-url]
@@ -103,6 +104,8 @@
 [React Router-url]: https://reactrouter.com/
 [TanStack Query]: https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white
 [TanStack Query-url]: https://tanstack.com/query/latest
+[Shopify]: https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white
+[Shopify-url]: https://www.shopify.com/
 [PhaserJS]: https://img.shields.io/badge/phaserjs-2C3E50.svg?style=for-the-badge&logo=phaser&logoColor=white
 [PhaserJS-url]: https://phaser.io/
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
