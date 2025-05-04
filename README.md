@@ -28,10 +28,12 @@
 [![Next.js][Next.js]][Next.js-url]
 [![Redux][Redux]][Redux-url]
 [![RTK Query][RTK Query]][RTK Query-url]
+[![React Hook Form][React Hook Form]][React Hook Form-url]
 [![PhaserJS][PhaserJS]][PhaserJS-url]
 [![Javascript][Javascript]][Javascript-url]
 [![TypeScript][TypeScript]][TypeScript-url]
 [![Zod][Zod]][Zod-url]
+[![Yup][Yup]][Yup-url]
 [![HTML5][HTML5]][HTML5-url]
 [![Pug][Pug]][Pug-url]
 [![Markdown][Markdown]][Markdown-url]
@@ -63,6 +65,7 @@
 [![Jest][Jest]][Jest-url]
 [![Trello][Trello]][Trello-url]
 [![Jira][Jira]][Jira-url]
+[![Asana][Asana]][Asana-url]
 [![Figma][Figma]][Figma-url]
 [![VSCode][VSCode]][VSCode-url]
 
@@ -82,6 +85,12 @@
 [RTK Query-url]: https://redux-toolkit.js.org/rtk-query/overview
 [Zod]: https://img.shields.io/badge/Zod-8A2BE2.svg?style=for-the-badge
 [Zod-url]: https://zod.dev/
+[React Hook Form]: https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white
+[React Hook Form-url]: https://react-hook-form.com/
+[Yup]: https://img.shields.io/badge/Yup-3178C6.svg?style=for-the-badge&logo=yup&logoColor=white
+[Yup-url]: https://github.com/jquense/yup
+[Asana]: https://img.shields.io/badge/Asana-273347.svg?style=for-the-badge&logo=asana&logoColor=white
+[Asana-url]: https://asana.com/
 [PhaserJS]: https://img.shields.io/badge/phaserjs-2C3E50.svg?style=for-the-badge&logo=phaser&logoColor=white
 [PhaserJS-url]: https://phaser.io/
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
